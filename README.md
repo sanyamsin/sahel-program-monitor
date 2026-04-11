@@ -61,6 +61,10 @@ Le dashboard Dash/Plotly offre :
 - **Évolution temporelle** filtrable par programme
 - **Alertes actives** avec détail des messages
 
+## Aperçu
+
+![Dashboard Sahel Program Monitor](reports/dashboard_screenshot.png)
+
 ---
 
 ## 🌍 Programmes suivis
