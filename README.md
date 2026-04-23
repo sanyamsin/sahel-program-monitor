@@ -8,6 +8,22 @@ Développé par **Serge-Alain NYAMSIN** - Expert Évaluation & Data Science
 
 ---
 
+## 📊 Analyse interactive — Notebook
+
+[![Notebook](https://img.shields.io/badge/Analyse-Jupyter%20Notebook-orange)](notebooks/sahel_program_analysis.ipynb)
+
+**[→ Voir l'analyse complète des programmes](notebooks/sahel_program_analysis.ipynb)**
+
+Le notebook d'analyse couvre :
+- Vue d'ensemble de **6 programmes** dans **5 pays** (budget total : 15.4M€)
+- Performance par secteur : Agriculture, Eau & WASH, Nutrition, Éducation, Gouvernance, Résilience
+- Évolution mensuelle sur **12 mois** avec détection des tendances
+- Système d'alertes - feux de signalisation pour les coordinateurs
+- Recommandations opérationnelles concrètes par niveau d'urgence
+
+> Accessible à tous les publics — coordinateurs de programme, chargés MEL, bailleurs.
+
+---
 ## 🎯 Objectif
 
 Ce projet simule un système complet de **suivi des indicateurs de performance**
